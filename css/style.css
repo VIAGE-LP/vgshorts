@@ -27,12 +27,6 @@
  .sns_btn {
      text-align: center;
  }
- .sns_btn ul li{
-     display: inline-block;
-     margin: 0 8px;
-     cursor: pointer;
- }
- 
  .buybtn{
     cursor:pointer;
     width: 200px;
